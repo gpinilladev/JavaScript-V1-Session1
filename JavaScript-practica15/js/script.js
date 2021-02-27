@@ -1,13 +1,10 @@
 // Mini calculadora
 const miniCalculadora = () => {
     let op = prompt("Seleccione la operacion a realizar: \n1. Para sumar\n2. Para restar\n3. Para multiplicar\n4. Para dividir");
-    switch (op) {
-        case value:
-            
-            break;
-    
-        default:
-            break;
+    if (op == "1" || op == "2" || op == "3" || op == "4") {
+        
+    } else {
+        
     }
 };
 
